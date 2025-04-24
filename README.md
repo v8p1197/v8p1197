@@ -12,7 +12,7 @@
 
 Vincenzo Petrone is a Roboticist, Computer Egineer, Robotics Software Developer, Researcher, and passionate [Salernitana](https://salernitana.it/) fan.
 He holds a Ph.D. in optimal planning and control in robot-environment interaction tasks.
-Currently working in force control, AI-based interaction control, and reinforcement learning.
+Currently working on force control, AI-based interaction control, and reinforcement learning.
 
 🇱🇻 [_Macte Animo_](https://it.wikipedia.org/wiki/Macte_animo)
 
