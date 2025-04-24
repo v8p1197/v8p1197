@@ -9,11 +9,12 @@
 - 📚 ORCID: [0000-0003-4777-1761](https://orcid.org/0000-0003-4777-1761)
 - 🦾​ Member of [@unisa-acg](https://github.com/unisa-acg)
 - ​📽️​ YouTube channel: [Automatic Control Group](https://www.youtube.com/@unisa-acg)
-- 🇱🇻​ [Macte Animo](https://it.wikipedia.org/wiki/Macte_animo)
 
 Vincenzo Petrone is a Roboticist, Computer Egineer, Robotics Software Developer, Researcher, and passionate [Salernitana](https://salernitana.it/) fan.
 He holds a Ph.D. in optimal planning and control in robot-environment interaction tasks.
 Currently working in force control, AI-based interaction control, and reinforcement learning.
+
+🇱🇻 [_Macte Animo_](https://it.wikipedia.org/wiki/Macte_animo)
 
 <!--
 **v8p1197/v8p1197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
