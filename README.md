@@ -1,6 +1,6 @@
 ## Hi there 👋🇮🇹​
 
-![Vincenzo Petrone's GitHub stats](https://github-readme-stats.vercel.app/api?username=v8p1197&show_icons=true&theme=dark#gh-dark-mode-only)
+![Vincenzo Petrone's GitHub stats](./profile/stats.svg "My GitHub stats")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v8p1197&layout=compact&theme=dark#gh-dark-mode-only)
 
 - 👨🏻‍🎓 Postdoctoral researcher at [Automatic Control Group (ACG)](http://www.automatica.unisa.it/researchMedia.php), [DIEM](https://www.diem.unisa.it/en), [Univerisity of Salerno](https://web.unisa.it/en/university)
